@@ -6,7 +6,18 @@ Makers Academy
 Pre-Course
 -----------
 
-  - Command Line
-  - Git
-  - Ruby
-  - Student Directory
+  - [x] Introduction
+  - [x] Expectations
+  - [x] Command Line
+        - Walkthrough
+        - Exercises
+  - [x] Version Control (git)
+        - Walkthrough
+        - Exercises
+  - [x] Ruby
+        - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+        - [Learn to Program](https://pine.fm/LearnToProgram/)
+        - [Code Academy](http://www.codecademy.com/tracks/ruby)
+        - [Ruby in 20 Mins](https://www.ruby-lang.org/en/documentation/quickstart/)
+        - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
+        - [Ruby Koans](http://rubykoans.com)
