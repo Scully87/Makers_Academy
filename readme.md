@@ -17,7 +17,6 @@ Pre-Course
         - Walkthrough
         - Exercises
   - [x] Ruby
-
         - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
         - [Learn to Program](https://pine.fm/LearnToProgram/)
         - [Code Academy](http://www.codecademy.com/tracks/ruby)
