@@ -21,6 +21,9 @@ Pre-Course
         - Exercises from links
         - Makers' Pills
         - Makers' Quizlet/Memrise
+
+  - [ ] [Student Directory](https://github.com/Scully87/student-directory)
+
   - [x] Useful Links:
         - [Try Git](https://try.github.io/levels/1/challenges/1)
         - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -30,3 +33,8 @@ Pre-Course
         - [Ruby in 20 Mins](https://www.ruby-lang.org/en/documentation/quickstart/)
         - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
         - [Ruby Koans](http://rubykoans.com)
+
+Week 1
+---------
+
+  - [x]
