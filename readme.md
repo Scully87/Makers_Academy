@@ -24,6 +24,8 @@ Pre-Course
 
   - [ ] [Student Directory](https://github.com/Scully87/student-directory)
 
+        - First Project
+
   - [x] Useful Links:
         - [Try Git](https://try.github.io/levels/1/challenges/1)
         - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -37,4 +39,10 @@ Pre-Course
 Week 1
 ---------
 
-  - [x]
+  - [x] [Boris Bikes](https://github.com/Scully87/Boris_Bikes)
+  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge)
+  - [x] [FAAST](https://github.com/Scully87/FAAST)
+  - [x] [VAAST](https://github.com/Scully87/VAAST)
+
+Week 2
+---------
