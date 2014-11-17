@@ -50,15 +50,17 @@ Week 1
         - BDD
         - OOD
         - OOP
-  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
+        - RSpec
 
   - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
 
-        - Chicago Style (Version 1)
+        - Chicago Style Testing (Version 1)
 
   - [x] [VAAST](https://github.com/Scully87/VAAST) (Weekend Challenge)
 
-        - London Style (Version 2)
+        - London Style Testing (Version 2)
+
+  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
 
 Week 2
 ---------
@@ -67,19 +69,40 @@ Week 2
 
   - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
-    - Team Working
-    - Modelling Domain
-    - The game engine
-    - User Interface
-
-  - [x] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
-
-    - Simple Ruby Kata
-
-  - [x] [Decorator Pattern](https://github.com/Scully87/Decorator_Patternn)
-
-    - Presentation for a SOLID principle
+        - Team Working
+        - Modelling Domain
+        - The game engine
+        - User Interface
 
   - [x] [Take-Away](https://github.com/Scully87/Take_Away) (Weekend Challenge)
 
-    - Twilio Gem
+        - Twilio Gem
+
+  - [x] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
+
+        - Simple Ruby Kata
+
+  - [x] [Decorator Pattern](https://github.com/Scully87/Decorator_Patternn)
+
+        - Presentation for a SOLID principle
+
+
+Week 3
+---------
+
+#####Ruby
+
+  - [x] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+
+        - Sinatra
+        - Cucumber
+        - Capybara
+
+  - [x] [Rock Paper Scissors](https://github.com/Scully87/Rock_Paper_Scissors) (Weekend Challenge)
+
+  - [x] [Inject Method](https://github.com/Scully87/Ruby_Inject_Method)
+
+  - [x] [Sinatra Test](https://github.com/Scully87/Sinatra_fun)
+
+  - [x] [Cucumber Test](https://github.com/Scully87/Cucumber)
+
