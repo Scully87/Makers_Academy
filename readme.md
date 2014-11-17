@@ -39,9 +39,11 @@ Pre-Course
 Week 1
 ---------
 
-####Ruby
+####Technologies Used:
+  - Ruby
   - RSpec
 
+####Projects:
 
   - [x] Introduction
 
@@ -69,9 +71,11 @@ Week 1
 Week 2
 ---------
 
-####Ruby
+####Technologies Used:
+  - Ruby
   - RSpec
 
+####Projects:
 
   - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
@@ -96,9 +100,14 @@ Week 2
 Week 3
 ---------
 
-####Ruby
+####Technologies Used:
+  - Ruby
+  - RSpec
   - Sinatra
+  - Cucumber
+  - Capybara
 
+####Projects:
 
   - [x] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
@@ -128,9 +137,14 @@ Week 3
 Week 4
 --------
 
-####Ruby
-  - postgresQL
+####Technologies Used:
+  - Ruby
+  - RSpec
+  - Sinatra
+  - Capybara
+  - PostgresQL
 
+####Projects:
 
   - [x] [Bookmark Manager](https://github.com/Scully87/Bookmark-Manager/tree/master/Bookmark_Manager) (Weekday Challenge)
 
