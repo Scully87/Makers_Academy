@@ -40,7 +40,8 @@ Week 1
 ---------
 
 ####Ruby
-#####(RSpec)
+##### - (RSpec)
+
 
   - [x] Introduction
 
@@ -69,7 +70,8 @@ Week 2
 ---------
 
 ####Ruby
-#####(RSpec)
+##### - (RSpec)
+
 
   - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
@@ -95,7 +97,8 @@ Week 3
 ---------
 
 ####Ruby
-#####(Sinatra)
+##### - (Sinatra)
+
 
   - [x] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
@@ -126,7 +129,8 @@ Week 4
 --------
 
 ####Ruby
-#####(postgresQL)
+##### - (postgresQL)
+
 
   - [x] [Bookmark Manager](https://github.com/Scully87/Bookmark-Manager/tree/master/Bookmark_Manager) (Weekday Challenge)
 
