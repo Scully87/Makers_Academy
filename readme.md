@@ -39,7 +39,8 @@ Pre-Course
 Week 1
 ---------
 
-#####Ruby
+####Ruby
+#####(RSpec)
 
   - [x] Introduction
 
@@ -62,10 +63,13 @@ Week 1
 
   - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
 
+        - Github Practice
+
 Week 2
 ---------
 
-#####Ruby
+####Ruby
+#####(RSpec)
 
   - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
@@ -90,19 +94,44 @@ Week 2
 Week 3
 ---------
 
-#####Ruby
+####Ruby
+#####(Sinatra)
 
   - [x] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
 
         - Sinatra
         - Cucumber
         - Capybara
+        - Sessions
+        - Params
 
   - [x] [Rock Paper Scissors](https://github.com/Scully87/Rock_Paper_Scissors) (Weekend Challenge)
 
+        - Using knowledge from weekday challenge to create a version of RPS in the browser
+
   - [x] [Inject Method](https://github.com/Scully87/Ruby_Inject_Method)
+
+        - Opening up the Inject method to get a better understanding
+
 
   - [x] [Sinatra Test](https://github.com/Scully87/Sinatra_fun)
 
+        - A test repository to understand Sinatra
+
   - [x] [Cucumber Test](https://github.com/Scully87/Cucumber)
 
+        - A test repository to understand Cucumber
+
+Week 4
+--------
+
+####Ruby
+#####(postgresQL)
+
+  - [x] [Bookmark Manager](https://github.com/Scully87/Bookmark-Manager/tree/master/Bookmark_Manager) (Weekday Challenge)
+
+        - Learning how to use Databases
+
+  - [x] [Twitter Clone](https://github.com/Scully87/Gritter) (Weekend Challenge)
+
+        - Creating a twitter clone using Databases.
