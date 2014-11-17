@@ -41,20 +41,22 @@ Week 1
 
 #####Ruby
 
-  - [x] [Boris Bikes](https://github.com/Scully87/Boris_Bikes)(First week challenge)
+  - [x] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
 
-    - TDD
-    - BDD
-    - OOD
-    - OOP
+      - TDD
+      - BDD
+      - OOD
+      - OOP
 
-  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge)(Friday Challenge)
-  - [x] [FAAST](https://github.com/Scully87/FAAST)(Weekend Challenge)
+  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
 
-    - Chicago Style (Version 1)
-  - [x] [VAAST](https://github.com/Scully87/VAAST)(Weekend Challenge)
+  - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
 
-    - London Style (Version 2)
+      - Chicago Style (Version 1)
+
+  - [x] [VAAST](https://github.com/Scully87/VAAST) (Weekend Challenge)
+
+      - London Style (Version 2)
 
 Week 2
 ---------
