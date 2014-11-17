@@ -11,15 +11,14 @@ Pre-Course
   - [x] Command Line
 
         - Walkthrough
-
         - Exercises
   - [x] Version Control (git)
 
         - Walkthrough
-
         - Exercises
   - [x] Ruby
-        - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+
+        - <a href="http://learnrubythehardway.org/book/">[Learn Ruby the Hard Way]<a>
 
         - [Learn to Program](https://pine.fm/LearnToProgram/)
 
