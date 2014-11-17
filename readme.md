@@ -41,7 +41,11 @@ Week 1
 
 #####Ruby
 
+  - [x] Introduction
+
   - [ ] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
+
+        - CRC
         - TDD
         - BDD
         - OOD
@@ -49,10 +53,33 @@ Week 1
   - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
 
   - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
+
         - Chicago Style (Version 1)
 
   - [x] [VAAST](https://github.com/Scully87/VAAST) (Weekend Challenge)
+
         - London Style (Version 2)
 
 Week 2
 ---------
+
+#####Ruby
+
+  - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+
+    - Team Working
+    - Modelling Domain
+    - The game engine
+    - User Interface
+
+  - [x] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
+
+    - Simple Ruby Kata
+
+  - [x] [Decorator Pattern](https://github.com/Scully87/Decorator_Patternn)
+
+    - Presentation for a SOLID principle
+
+  - [x] [Take-Away](https://github.com/Scully87/Take_Away) (Weekend Challenge)
+
+    - Twilio Gem
