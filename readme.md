@@ -39,10 +39,22 @@ Pre-Course
 Week 1
 ---------
 
-  - [x] [Boris Bikes](https://github.com/Scully87/Boris_Bikes)
-  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge)
-  - [x] [FAAST](https://github.com/Scully87/FAAST)
-  - [x] [VAAST](https://github.com/Scully87/VAAST)
+#####Ruby
+
+  - [x] [Boris Bikes](https://github.com/Scully87/Boris_Bikes)(First week challenge)
+
+    - TDD
+    - BDD
+    - OOD
+    - OOP
+
+  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge)(Friday Challenge)
+  - [x] [FAAST](https://github.com/Scully87/FAAST)(Weekend Challenge)
+
+    - Chicago Style (Version 1)
+  - [x] [VAAST](https://github.com/Scully87/VAAST)(Weekend Challenge)
+
+    - London Style (Version 2)
 
 Week 2
 ---------
