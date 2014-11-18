@@ -166,24 +166,24 @@ Week 5
 
   - [x] [Pokemon Game](https://github.com/Scully87/pokemon-game)
 
-      - Re-creating a version of RPS using a different scenario
+        - Re-creating a version of RPS using a different scenario
 
   - [x] [Fizzbuzz io](https://github.com/Scully87/fizzbuzz_io)
 
-      - Learnt how to use the programming language io by doing a simple kata
+        - Learnt how to use the programming language io by doing a simple kata
 
   - [x] [Javabuzz](https://github.com/Scully87/Javabuzz)
 
-      - Learnt how to use the programming language javascript by doing a simple kata
+        - Learnt how to use the programming language javascript by doing a simple kata
 
   - [ ] [Airport](https://github.com/Scully87/Airport_JS)
 
-      - Used javascript to create an OOP program
+        - Used javascript to create an OOP program
 
   - [ ] [FAAST JS](https://github.com/Scully87/FAAST_JS)
 
-      - Another OOP program to recreate a previous project in Ruby
+        - Another OOP program to recreate a previous project in Ruby
 
   - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
 
-      - Re-creating RPS in javascript language
+        - Re-creating RPS in javascript language
