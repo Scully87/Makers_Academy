@@ -194,6 +194,10 @@ Week 5
 
         - Re-creating RPS in javascript language
 
+  - [ ] [Up Your Alley](https://github.com/Scully87/Up-Your-Alley)(Weekend project)
+
+        - Crreating a ten pin bowling scorer in Javascript
+
 Week 6
 --------
 
@@ -219,4 +223,57 @@ Week 6
   - [x] [Chitter](https://github.com/Scully87/Chitter_v8)(Weekend Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
+
+Week 7
+-------
+
+####Technologies Used:
+  - Javascript
+  - JQuery
+  - Node.js
+  - Socket.io
+  - CoffeeScript
+  - Mocha
+
+####Projects:
+
+  - [x] [Chatter](https://github.com/Scully87/chat-example)
+
+        - A simple server using sockets to make a chat program
+
+  - [x] [CoffeeBuzz](https://github.com/Scully87/Coffee_Buzz)
+
+        - A simple kata to understand the CoffeeScript language
+
+Week 8
+--------
+
+####Technologies Used:
+  - Ruby
+  - Rails
+  - JQuery
+  - HTML
+  - CSS
+  - Devise
+  - Omniauth
+
+####Projects:
+
+  - [x] [Yelp Clone](https://github.com/Scully87/Yelp_clone)(weekday project)
+
+        - A project to understand the fundamentals of Ruby on Rails
+
+  - [x] [TIMstagram](https://github.com/Scully87/TIMstagram)(Weekend Challenge)
+
+        - A weekend project to re-create [Instagram](http://www.instagram.com)
+
+Week 9
+--------
+
+####Technologies Used:
+  -
+
+
+
+
 
