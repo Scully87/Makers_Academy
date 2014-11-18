@@ -1,7 +1,7 @@
 Makers Academy
 ===================
 
-#####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit. All project Titles are clickable links
+#####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit. All project Titles are clickable links.
 
 Pre-Course
 -----------
@@ -49,12 +49,12 @@ Week 1
 
   - [ ] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
 
-        - ######CRC
-        - ######TDD
-        - ######BDD
-        - ######OOD
-        - ######OOP
-        - ######RSpec
+        - CRC
+        - TDD
+        - BDD
+        - OOD
+        - OOP
+        - RSpec
 
   - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
 
@@ -106,6 +106,7 @@ Week 3
   - Sinatra
   - Cucumber
   - Capybara
+  - HTML
 
 ####Projects:
 
@@ -143,6 +144,8 @@ Week 4
   - Sinatra
   - Capybara
   - PostgresQL
+  - HTML
+  - CSS
 
 ####Projects:
 
@@ -161,6 +164,9 @@ Week 5
   - Javascript
   - Jasmine
   - io
+  - HTML
+  - CSS
+  - Sinatra
 
 ####Projects:
 
@@ -187,3 +193,30 @@ Week 5
   - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
 
         - Re-creating RPS in javascript language
+
+Week 6
+--------
+
+####Technologies Used:
+  - Javascript
+  - Jasmine
+  - HTML
+  - CSS
+  - APIs
+  - Sinatra
+  - JQuery
+
+####Projects:
+
+  - [x] [Thermostat](https://github.com/Scully87/Thermostat_js)
+
+        - Created a program to show current temperature and local weather report in a static location (London).
+
+  - [x] [Github Profiles API](https://github.com/Scully87/github_api)
+
+        - Created a simple page to show the use of Github user profiles through the developer API
+
+  - [x] [Chitter](https://github.com/Scully87/Chitter_v8)(Weekend Challenge)
+
+        - A Twitter clone using Javascript and your own API to display the tweets
+
