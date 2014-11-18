@@ -1,7 +1,7 @@
 Makers Academy
 ===================
 
-#####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
+#####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit. All project Titles are clickable links
 
 Pre-Course
 -----------
@@ -49,12 +49,12 @@ Week 1
 
   - [ ] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
 
-        - CRC
-        - TDD
-        - BDD
-        - OOD
-        - OOP
-        - RSpec
+        - ######CRC
+        - ######TDD
+        - ######BDD
+        - ######OOD
+        - ######OOP
+        - ######RSpec
 
   - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
 
