@@ -1,7 +1,7 @@
 Makers Academy
 ===================
 
-####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
+#####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
 
 Pre-Course
 -----------
@@ -153,3 +153,37 @@ Week 4
   - [x] [Twitter Clone](https://github.com/Scully87/Gritter) (Weekend Challenge)
 
         - Creating a twitter clone using Databases.
+
+Week 5
+---------
+
+####Technologies Used:
+  - Javascript
+  - Jasmine
+  - io
+
+####Projects:
+
+  - [x] [Pokemon Game](https://github.com/Scully87/pokemon-game)
+
+      - Re-creating a version of RPS using a different scenario
+
+  - [x] [Fizzbuzz io](https://github.com/Scully87/fizzbuzz_io)
+
+      - Learnt how to use the programming language io by doing a simple kata
+
+  - [x] [Javabuzz](https://github.com/Scully87/Javabuzz)
+
+      - Learnt how to use the programming language javascript by doing a simple kata
+
+  - [ ] [Airport](https://github.com/Scully87/Airport_JS)
+
+      - Used javascript to create an OOP program
+
+  - [ ] [FAAST JS](https://github.com/Scully87/FAAST_JS)
+
+      - Another OOP program to recreate a previous project in Ruby
+
+  - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
+
+      - Re-creating RPS in javascript language
