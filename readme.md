@@ -271,7 +271,22 @@ Week 9
 --------
 
 ####Technologies Used:
-  -
+  - Javasript
+  - JQuery
+  - Node.js
+  - Socket.io
+  - Github API
+  - HTML
+  - CSS
+
+####Projects:
+
+  - [x] [GitRacer](https://github.com/zrasool88/gitRacer)(Makeathon Week)
+
+        - A program created to update live commit information of a users github profile.
+
+Week 10
+---------
 
 
 
