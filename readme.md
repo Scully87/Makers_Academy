@@ -288,6 +288,22 @@ Week 9
 Week 10
 ---------
 
+####Technologies Used:
+  - Ruby
+  - RSpec
+
+####Projects:
+
+  - [x] [Meta Programming](https://github.com/Scully87/Meta_Programming)
+
+        - Learning how to use meta programming with Ruby
+
+Week 11
+---------
+
+Week 12
+---------
+
 
 
 
