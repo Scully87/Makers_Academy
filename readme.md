@@ -298,7 +298,7 @@ Week 10
 
         - Learning how to use meta programming with Ruby
 
-  - [ ] [Javascripting](https://github.com/Scully87/Javascripting)
+  - [x] [Javascripting](https://github.com/Scully87/Javascripting)
 
         - Javascript practice
 
