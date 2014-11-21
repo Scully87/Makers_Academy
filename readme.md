@@ -291,8 +291,23 @@ Week 10
 ####Technologies Used:
   - Ruby
   - RSpec
+  - Javascript
+  - Node
+  - Express
 
 ####Projects:
+
+  - [x] [Sinatra Template Gem](https://github.com/Scully87/sinatra_template_gem)
+
+        - Created a gem for a simple Sinatra app Template complete with required CSS files and JQuery
+
+  - [x] [Sinatra Template] (https://github.com/Scully87/Sinatra-Template)
+
+        - Simple sinatra template
+
+  - [x] [Node Server Template] (https://github.com/Scully87/Express_Template)
+
+        - Simple Node-Express server template
 
   - [x] [Meta Programming](https://github.com/Scully87/Meta_Programming)
 
@@ -302,8 +317,12 @@ Week 10
 
         - Javascript practice
 
+
+
+
 Week 11
 ---------
+
 
 Week 12
 ---------
