@@ -299,15 +299,15 @@ Week 10
 
   - [x] [Sinatra Template Gem](https://github.com/Scully87/sinatra_template_gem)
 
-        - [Click Here for Gem](http://rubygems.org/gems/sinatra_template)
+    - [Click Here for Gem](http://rubygems.org/gems/sinatra_template)
 
-        - Created a gem for a simple Sinatra app Template complete with required CSS files and JQuery
+       - Created a gem for a simple Sinatra app Template complete with required CSS files and JQuery
 
   - [x] [Testing Steve's "Make a Gem called"](https://github.com/Scully87/testing_gem_with_steve)
 
-        - Testing a gem creator by [HatStephens](https://github.com/HatStephens) to be able to publish my own gem
+    - Testing a gem creator by [HatStephens](https://github.com/HatStephens) to be able to publish my own gem
 
-        - [Click Here for the 'Make me a Gem Called' Gem](http://rubygems.org/gems/make_me_a_gem_called)
+    - [Click Here for the 'Make me a Gem Called' Gem](http://rubygems.org/gems/make_me_a_gem_called)
 
   - [x] [Sinatra Template](https://github.com/Scully87/Sinatra-Template)
 
