@@ -321,11 +321,12 @@ Week 10
 
         - Javascript practice
 
-
-
+Final Project
+===============
 
 Week 11
 ---------
+
 
 
 Week 12
