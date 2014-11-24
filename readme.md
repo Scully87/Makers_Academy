@@ -324,6 +324,9 @@ Week 10
 Final Project
 ===============
 
+REWARDR
+BADGR
+
 Week 11
 ---------
 
