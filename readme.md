@@ -324,12 +324,21 @@ Week 10
 Final Project
 ===============
 
-REWARDR
-BADGR
-
 Week 11
 ---------
 
+####Technologies Used:
+
+  - Ruby
+  - Rails
+  - RSpec
+  - HTML
+  - CSS
+  - jQuery
+
+####Projects
+
+  - [x] [REWARDR](https://github.com/HatStephens/FATS_Rewardr)
 
 
 Week 12
