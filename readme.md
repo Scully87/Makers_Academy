@@ -22,7 +22,7 @@ Pre-Course
         - Makers' Pills
         - Makers' Quizlet/Memrise
 
-  - [ ] [Student Directory](https://github.com/Scully87/student-directory)
+  - [x] [Student Directory](https://github.com/Scully87/student-directory)
 
         - First Project
 
@@ -343,6 +343,9 @@ Week 11
 
 Week 12
 ---------
+
+ - [x] [BADRGR](https://github.com/Scully87/FATS_badgr)
+
 
 
 
