@@ -346,6 +346,13 @@ Week 12
 
  - [x] [BADRGR](https://github.com/Scully87/FATS_badgr)
 
+ ####Technologies Used:
+
+  - Phonegap
+  - Javascript
+  - HTML5
+  - CSS3
+
 
 
 
