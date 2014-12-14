@@ -47,7 +47,7 @@ Week 1
 
   - [x] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
+  - [x] [Boris Bikes](https://github.com/Scully87/BoringBikes) (Weekday Challenge)
 
         - CRC
         - TDD
