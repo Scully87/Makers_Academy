@@ -182,22 +182,6 @@ Week 5
 
         - Learnt how to use the programming language javascript by doing a simple kata
 
-  - [ ] [Airport](https://github.com/Scully87/Airport_JS)
-
-        - Used javascript to create an OOP program
-
-  - [ ] [FAAST JS](https://github.com/Scully87/FAAST_JS)
-
-        - Another OOP program to recreate a previous project in Ruby
-
-  - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
-
-        - Re-creating RPS in javascript language
-
-  - [ ] [Up Your Alley](https://github.com/Scully87/Up-Your-Alley)(Weekend project)
-
-        - Crreating a ten pin bowling scorer in Javascript
-
 Week 6
 --------
 
@@ -352,9 +336,3 @@ Week 12
   - Javascript
   - HTML5
   - CSS3
-
-
-
-
-
-
